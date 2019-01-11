@@ -4,6 +4,7 @@
 
 call plug#begin()
 Plug '/usr/local/opt/fzf'
+Plug 'elixir-lang/vim-elixir'
 Plug 'ervandew/supertab'
 Plug 'junegunn/fzf.vim'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
