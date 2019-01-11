@@ -71,6 +71,7 @@ nnoremap <silent> <leader>r :call ToggleWindowHorizontalVerticalSplit()<cr>
 
 set number
 set linebreak
+set background=light
 
 let g:airline_powerline_fonts = 1
 
